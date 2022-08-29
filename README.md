@@ -34,10 +34,8 @@
 
 ### Resultado Final 👁️: [Página Web](https://davi-perdigao.github.io/Mundo_Invertido/) 
 
-***
  ![Modo - White](https://github.com/Davi-Perdigao/Mundo_Invertido/blob/main/assets/images/site/White.png?raw=true)
  ![Modo - Dark](https://github.com/Davi-Perdigao/Mundo_Invertido/blob/main/assets/images/site/Dark.png?raw=true)
-***
 
 ## 🔗 Links auxiliares
 
@@ -45,5 +43,7 @@
 - [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
 - [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
 - [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1)
+
+***
 
 - Desafio prático da plataforma [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One")
