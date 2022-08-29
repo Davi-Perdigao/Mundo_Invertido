@@ -32,7 +32,7 @@
     - Introdução ao Firebase
     - Integração com o Firebase
 
-### Resultado Final 👁️: [Página Web](https://davi-perdigao.github.io/Mundo_Invertido/) 
+## Resultado Final 👁️: [Página Web](https://davi-perdigao.github.io/Mundo_Invertido/) 
 
  ![Modo - White](https://github.com/Davi-Perdigao/Mundo_Invertido/blob/main/assets/images/site/White.png?raw=true)
  ![Modo - Dark](https://github.com/Davi-Perdigao/Mundo_Invertido/blob/main/assets/images/site/Dark.png?raw=true)
