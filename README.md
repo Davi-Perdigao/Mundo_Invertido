@@ -38,13 +38,11 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 - [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
 - [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1)
 
-### Resultado Final :white_check_mark:
+### Resultado Final 👁️: [Página Web](https://davi-perdigao.github.io/Marvel-Fight/) 
+
 ***
  ![Modo - White](https://raw.githubusercontent.com/ericcastroc/Mundo-Invertido-Dio/main/assets/images/site/White.png?token=GHSAT0AAAAAABVYWOHGCBPOP7CEZDPR3JV2YYLM7HA)
  ![Site 2](https://raw.githubusercontent.com/ericcastroc/Mundo-Invertido-Dio/main/assets/images/site/Dark.png?token=GHSAT0AAAAAABVYWOHHEM5B24AJ7FW2T4DAYYLM72Q)
-
-
- 
-Acesse o site você mesmo [MUNDO INVERTIDO:beginner:](https://ericcastroc.github.io/LeagueOfLegends-Login/index.html)
 ***
+
 - Desafio prático da plataforma [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One")
