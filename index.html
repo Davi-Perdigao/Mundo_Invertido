@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Mundo Invertido | Semana Front-end</title>
 
-    <link rel="stylesheet" href="assets/css/styles.css" />
+    <link rel="stylesheet" href="assets/css/style.css" />
   </head>
   <body class="light-theme" aria-label="O site está utilizando o tema light" role="body">
     <header aria-label="Cabeçalho da página.">
       <audio id="music" autoplay>
-        <source src="assets/musics/normal-world.mpeg" aria-details="Audio do site" />
+        <source src="../assets/musics/normal-world.mpeg" aria-details="Audio do site" />
       </audio>
       <div class="header-content">
         <img class="invert-element" src="assets/images/banner/logo.svg" alt="Imagem principal Mundo Invertido. Semana Frontend DIO." />
@@ -33,7 +33,7 @@
 
       <section id="section-inverted-world" class="container">
         <div class="section-texts">
-          <h1>O Mundo Invertido</h1>
+          <h2>O Mundo Invertido</h2>
           <p role="text">
             O Mundo Invertido parece uma cópia do nosso mundo, mas com criaturas
             horrendas, tempestades assustadoras, muita escuridão e entidades
@@ -44,7 +44,7 @@
 
         <img
           class="invert-element"
-          src="assets/images/content/inverted-world.png"
+          src="assets/images/content/invertedworld.png"
           alt="Image ilustrativa do Mundo Invertido"
         />
       </section>
@@ -54,7 +54,7 @@
           <iframe
             width="460"
             height="215"
-            src="https://www.youtube.com/embed/SJ9EFhQ3ANQ?controls=0"
+            src="https://www.youtube.com/embed/otutSrxYpa4?controls=0"
             title="YouTube video player"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -77,13 +77,13 @@
           <h2>A segunda série mais assistida da Netflix</h2>
           <ul class="gallery-container" role="gallery">
             <li class="gallery-image invert-element">
-              <img src="assets/images/content/serie-image-01.png" alt="Imagem de Vecna" />
+              <img src="assets/images/content/serieimage01.png" alt="Imagem de Vecna" />
             </li>
             <li class="gallery-image invert-element">
-              <img src="assets/images/content/serie-image-02.png" alt="Imagem ilustrativa dos amigos de Eleven" />
+              <img src="assets/images/content/serieimage02.png" alt="Imagem ilustrativa dos amigos de Eleven" />
             </li>
             <li class="gallery-image invert-element">
-              <img src="assets/images/content/serie-image-03.png" alt="Imagem Eleven assustada" />
+              <img src="assets/images/content/serieimage03.png" alt="Imagem Eleven assustada" />
             </li>
           </ul>
         </div>
@@ -103,22 +103,21 @@
           <h3>Entre para o clube de D&D e tenha experiências de <span>outro mundo<span></span></h3>
 
           <div class="form-container">
-            <form>
-              <label for="name">Nome Completo</label>
+            <form action="">
+              <label for="txtName">Nome Completo</label>
               <input type="text" name="name" id="txtName">
           
-              <label for="email">E-mail</label>
+              <label for="txtEmail">E-mail</label>
               <input type="email" name="email" id="txtEmail">
           
-              <label for="level">Level</label>
-              <input type="text" name="level" id="txtLevel">
+              <label for="txtLevel">Level</label>
+              <input type="number" name="level" id="txtLevel">
           
-              <label for="character">Personagem</label>
+              <label for="txtCharacter">Personagem</label>
               <textarea name="character" cols="30" rows="10" id="txtCharacter"></textarea>
             
               <button type="button" id="btnSubscribe">Me inscrever</button>
             </form>
-            
           </div>
         </div>
       </section>
@@ -129,12 +128,32 @@
         Projeto construído para fins didáticos, com o objetivo de colocar em
         prática os conhecimentos de HTML, CSS e JavaScript aprendidos na DIO._
       </p>
-      <img src="assets/images/footer/logo.svg" alt="">
+      <img src="assets/images/footer/logo.svg" alt="logo dio">
     </footer>
-    
-    <script type="module" src="assets/js/main.js"></script>
+
     <script>
-      
+      window.addEventListener('click', function() {
+        const audio = document.getElementById('music');
+        audio.play();
+        audio.volume = 0.2;
+      });
+
+      function switchTheme() {
+        document.body.classList.toggle('dark-theme');
+        document.body.classList.toggle('light-theme');
+
+        document.body.setAttribute('aria-label', 'Trocando o tema');
+
+        const theme = document.body.classList[0];
+        const music = theme === 'light-theme' ? 'normal-world.mpeg' : 'inverted-world.mpeg'
+
+        const audio = document.getElementById('music');
+        audio.src = `../assets/musics/${music}`;
+        audio.play();
+        audio.volume = 0.2;
+      }
     </script>
+
+    <script src="../assets/js/main.js" type="module"></script>
   </body>
 </html>
