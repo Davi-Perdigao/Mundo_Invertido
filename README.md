@@ -32,6 +32,12 @@
     - Introdução ao Firebase
     - Integração com o Firebase
 
+### Resultado Final 👁️: [Página Web](https://davi-perdigao.github.io/Marvel-Fight/) 
+
+***
+ ![Modo - White](https://raw.githubusercontent.com/ericcastroc/Mundo-Invertido-Dio/main/assets/images/site/White.png?token=GHSAT0AAAAAABVYWOHGCBPOP7CEZDPR3JV2YYLM7HA)
+ ![Site 2](https://raw.githubusercontent.com/ericcastroc/Mundo-Invertido-Dio/main/assets/images/site/Dark.png?token=GHSAT0AAAAAABVYWOHHEM5B24AJ7FW2T4DAYYLM72Q)
+***
 
 ## 🔗 Links auxiliares
 
@@ -39,12 +45,5 @@
 - [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
 - [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
 - [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1)
-
-### Resultado Final 👁️: [Página Web](https://davi-perdigao.github.io/Marvel-Fight/) 
-
-***
- ![Modo - White](https://raw.githubusercontent.com/ericcastroc/Mundo-Invertido-Dio/main/assets/images/site/White.png?token=GHSAT0AAAAAABVYWOHGCBPOP7CEZDPR3JV2YYLM7HA)
- ![Site 2](https://raw.githubusercontent.com/ericcastroc/Mundo-Invertido-Dio/main/assets/images/site/Dark.png?token=GHSAT0AAAAAABVYWOHHEM5B24AJ7FW2T4DAYYLM72Q)
-***
 
 - Desafio prático da plataforma [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One")
