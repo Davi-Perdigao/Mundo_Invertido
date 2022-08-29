@@ -36,7 +36,7 @@
 
 ***
  ![Modo - White](https://github.com/Davi-Perdigao/Mundo_Invertido/blob/main/assets/images/site/White.png?raw=true)
- ![Site 2](https://raw.githubusercontent.com/ericcastroc/Mundo-Invertido-Dio/main/assets/images/site/Dark.png?token=GHSAT0AAAAAABVYWOHHEM5B24AJ7FW2T4DAYYLM72Q)
+ ![Modo - Dark](https://github.com/Davi-Perdigao/Mundo_Invertido/blob/main/assets/images/site/Dark.png?raw=true)
 ***
 
 ## 🔗 Links auxiliares
