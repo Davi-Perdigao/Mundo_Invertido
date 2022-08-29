@@ -35,7 +35,7 @@
 ### Resultado Final 👁️: [Página Web](https://davi-perdigao.github.io/Mundo_Invertido/) 
 
 ***
- ![Modo - White](https://raw.githubusercontent.com/ericcastroc/Mundo-Invertido-Dio/main/assets/images/site/White.png?token=GHSAT0AAAAAABVYWOHGCBPOP7CEZDPR3JV2YYLM7HA)
+ ![Modo - White](https://github.com/Davi-Perdigao/Mundo_Invertido/blob/main/assets/images/site/White.png?raw=true)
  ![Site 2](https://raw.githubusercontent.com/ericcastroc/Mundo-Invertido-Dio/main/assets/images/site/Dark.png?token=GHSAT0AAAAAABVYWOHHEM5B24AJ7FW2T4DAYYLM72Q)
 ***
 
