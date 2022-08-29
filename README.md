@@ -32,7 +32,7 @@
     - Introdução ao Firebase
     - Integração com o Firebase
 
-### Resultado Final 👁️: [Página Web](https://davi-perdigao.github.io/Marvel-Fight/) 
+### Resultado Final 👁️: [Página Web](https://davi-perdigao.github.io/Mundo_Invertido/) 
 
 ***
  ![Modo - White](https://raw.githubusercontent.com/ericcastroc/Mundo-Invertido-Dio/main/assets/images/site/White.png?token=GHSAT0AAAAAABVYWOHGCBPOP7CEZDPR3JV2YYLM7HA)
