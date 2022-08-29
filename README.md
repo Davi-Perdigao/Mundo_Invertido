@@ -6,9 +6,7 @@
 
 ### Desafio Semana Front-End DIO 🎯:
 
-***
   Criação da interface responsiva de uma página com theme switcher utilizando HTML, CSS e JavaScript, além de integrar um formulário de inscrição com um banco de dados Firebase.
-***
 
 ## 💻 Tecnologias
 - HTML
